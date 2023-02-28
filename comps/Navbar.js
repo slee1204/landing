@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const NavContainer = styled.div`
+const NavbarCont = styled.div`
   position: relative;
   height: 90px;
   width: 100vw;
